@@ -38,3 +38,43 @@ body {
           text-align: left;
         }
       }
+
+
+      .product-details{
+        border : 1px solid black;
+width :200 px ;
+height: auto;
+display: flex ;
+ justify-content: space-between;
+    
+      }
+
+
+      .color {
+        display :grid
+      }
+
+
+      .color {
+        display :grid
+      }
+
+
+      .capacity {
+        display :grid
+      }
+
+
+
+      .quantity {
+        display :grid
+      }
+
+
+      .price {
+        display :grid
+      }  
+
+      .total {
+        display :grid
+      } 
