@@ -107,4 +107,9 @@ display: flex ;
 .print{ border-radius: 40%;
     color: black;}
 
+
+    @media screen and (max-width: 800px) {
+        .left, .main, .right {
+          width: 100%; }} 
+
                        
