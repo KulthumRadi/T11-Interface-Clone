@@ -108,6 +108,10 @@ display: flex ;
     color: black;}
 
 
+    .shipping {display:grid}
+    .delivery {display:grid}
+    .payment{display:grid}
+
     @media screen and (max-width: 800px) {
         .left, .main, .right {
           width: 100%; }} 
