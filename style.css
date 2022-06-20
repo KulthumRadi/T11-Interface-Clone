@@ -99,7 +99,7 @@ display: flex ;
 
 
                     .cancel {  text-decoration: none;
-                        color: black; 
+                        color: rgb(245, 21, 21); 
                     margin-left: 90px;}
 .pdf { border-radius: 40%;
     color: rgb(131, 131, 193);}
